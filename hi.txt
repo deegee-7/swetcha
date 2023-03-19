@@ -1,6 +1,6 @@
 git status
 git add filename
-git config --global 
+
 git commit -m "message"
-git push origin master
+
 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
